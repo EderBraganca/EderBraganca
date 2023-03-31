@@ -1,6 +1,6 @@
 ## Fala família, eu sou o Eder Bragança!
 
-Sou desenvolvedor a atualmente curso Ciência da Computação na UFOP, programo em minhas horas vagas e estou sempre pesquisando algo novo. 
+Sou desenvolvedor, curso Ciência da Computação na UFOP, programo em minhas horas vagas e estou sempre pesquisando algo novo. 
 
 ## XP
 
