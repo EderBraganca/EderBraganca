@@ -1,6 +1,6 @@
 ## Fala família, eu sou o Eder Bragança!
 
-Sou desenvolvedor, curso Ciência da Computação na UFOP, programo em minhas horas vagas e estou sempre pesquisando algo novo. 
+Olá, tenho 20 anos e este é meu perfil no Github. Aqui você encontrará alguns dos meus projetos e contribuições na área de programação. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e aprimorar minhas habilidades. Além disso, estou aberto a colaborações e parcerias em projetos interessantes. Sinta-se à vontade para explorar meu perfil e entrar em contato comigo se tiver alguma dúvida ou sugestão.
 
 ## XP
 
