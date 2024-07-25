@@ -1,6 +1,6 @@
 ## Fala família, eu sou o Eder Bragança!
 
-Olá, tenho 21 anos e este é meu perfil no Github. Aqui você encontrará alguns dos meus projetos e contribuições na área de programação. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e aprimorar minhas habilidades. Além disso, estou aberto a colaborações e parcerias em projetos interessantes. Sinta-se à vontade para explorar meu perfil e entrar em contato comigo se tiver alguma dúvida ou sugestão.
+Olá, tenho 22 anos e este é meu perfil no Github. Aqui você encontrará alguns dos meus projetos e contribuições na área de programação. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e aprimorar minhas habilidades. Além disso, estou aberto a colaborações e parcerias em projetos interessantes. Sinta-se à vontade para explorar meu perfil e entrar em contato comigo se tiver alguma dúvida ou sugestão.
 
 ## XP
 
