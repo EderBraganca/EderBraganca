@@ -1,6 +1,6 @@
 ## Hello everyone! I'm Eder Bragança!
 
-Hello, I'm 23 years old and this is my Github profile. Here you will find some of my projects and contributions in the field of programming. I am passionate about technology and always looking to learn more and improve my skills. Additionally, I am open to collaborations and partnerships on interesting projects. Feel free to explore my profile and contact me if you have any questions or suggestions.
+Hello, I'm 24 years old and this is my Github profile. Here you will find some of my projects and contributions in the field of programming. I am passionate about technology and always looking to learn more and improve my skills. Additionally, I am open to collaborations and partnerships on interesting projects. Feel free to explore my profile and contact me if you have any questions or suggestions.
 
 ## XP
 
