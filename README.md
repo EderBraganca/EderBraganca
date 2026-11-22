@@ -1,11 +1,36 @@
-## Hello everyone! I'm Eder Bragança!
-
-Hello, I'm 24 years old and this is my Github profile. Here you will find some of my projects and contributions in the field of programming. I am passionate about technology and always looking to learn more and improve my skills. Additionally, I am open to collaborations and partnerships on interesting projects. Feel free to explore my profile and contact me if you have any questions or suggestions.
-
-## XP
-
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-
-## Contact 📬
-
-<a href = "mailto:ederbrape@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://instagram.com/ebraganca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/Eder-Braganca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+### Hi, I'm Eder 👋
+ 
+Software Engineer from Brazil 🇧🇷 building **APIs, integrations and search** that hold up in production.
+ 
+- 🔍 At **Levty** I own ERP features end to end and I'm the go-to person for **Elasticsearch**: I redesigned the queries and mappings behind our heaviest reports, cutting response time from **15s to 3s**.
+- 🔗 I build **REST integrations in JavaScript** that handle **50k+ requests/day** across 3 external systems.
+- 🧑‍🏫 Promoted from trainee to engineer in 18 months; I review PRs and have mentored 5 trainees.
+- 🤖 My CS thesis (UFOP) evaluated **LLMs (Llama, Mistral) for news recommendation**, and I keep building with LLMs and AI agents.
+- 🌎 Open to **remote roles** with teams in the US and Europe.
+---
+ 
+#### 🛠️ Tech I work with
+ 
+**Backend:** Node.js · JavaScript/TypeScript · Java · Spring Boot · REST APIs
+**Search & Data:** Elasticsearch · PostgreSQL · MongoDB · SQL
+**Frontend:** React · TypeScript · HTML/CSS · Tailwind
+**Tooling:** Docker · Git · AWS · Google Cloud · Postman · Jira
+ 
+---
+ 
+#### 📌 Featured projects
+ 
+<!-- Swap these in as each project goes live. Keep 2–4 strong projects here, not everything. -->
+ 
+| Project | What it shows | Stack |
+|---|---|---|
+| **[search-api](https://github.com/EderBraganca/search-api)** *(in progress)* | Full-text search API with relevance tuning, autocomplete, tests and CI | Node.js · TypeScript · Elasticsearch · Docker · Jest |
+| **[LLM news recommender](https://tinyurl.com/mwdjfsvj)** | B.Sc. thesis: evaluating Llama and Mistral for personalized news recommendation | Python · LLMs |
+| **[Portfolio](https://ederbraganca.github.io)** | Personal site | React |
+ 
+---
+ 
+#### 📫 Reach me
+ 
+[LinkedIn](https://linkedin.com/in/eder-braganca) · [Portfolio](https://ederbraganca.github.io) · ederbrape@gmail.com
+ 
