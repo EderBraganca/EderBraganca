@@ -6,7 +6,6 @@ Software Engineer from Brazil 🇧🇷 building **APIs, integrations and search*
 - 🔗 I build **REST integrations in JavaScript** that handle **50k+ requests/day** across 3 external systems.
 - 🧑‍🏫 Promoted from trainee to engineer in 18 months; I review PRs and have mentored 5 trainees.
 - 🤖 My CS thesis (UFOP) evaluated **LLMs (Llama, Mistral) for news recommendation**, and I keep building with LLMs and AI agents.
-- 🌎 Open to **remote roles** with teams in the US and Europe.
 ---
  
 #### 🛠️ Tech I work with
