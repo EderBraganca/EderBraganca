@@ -20,11 +20,9 @@ Software Engineer from Brazil 🇧🇷 building **APIs, integrations and search*
  
 #### 📌 Featured projects
  
-<!-- Swap these in as each project goes live. Keep 2–4 strong projects here, not everything. -->
  
 | Project | What it shows | Stack |
 |---|---|---|
-| **[search-api](https://github.com/EderBraganca/search-api)** *(in progress)* | Full-text search API with relevance tuning, autocomplete, tests and CI | Node.js · TypeScript · Elasticsearch · Docker · Jest |
 | **[LLM news recommender](https://tinyurl.com/mwdjfsvj)** | B.Sc. thesis: evaluating Llama and Mistral for personalized news recommendation | Python · LLMs |
 | **[Portfolio](https://ederbraganca.github.io)** | Personal site | React |
  
