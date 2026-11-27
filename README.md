@@ -24,6 +24,7 @@ Software Engineer from Brazil 🇧🇷 building **APIs, integrations and search*
 |---|---|---|
 | **[LLM news recommender](https://tinyurl.com/mwdjfsvj)** | B.Sc. thesis: evaluating Llama and Mistral for personalized news recommendation | Python · LLMs |
 | **[Portfolio](https://ederbraganca.github.io)** | Personal site | React |
+| **[ColliCorpo](https://collicorpo.com.br)** | Project that I developed | React |
  
 ---
  
